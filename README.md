@@ -1,11 +1,4 @@
 # Proyecto_Final_POO
-
-Trabajo realizado por
-* Mateo Miño
-* Erick Villarroel
-* Danny Yanacallo
------------------------------------
-
 # Requerimientos
 
 En el presente proyecto se implementa los conceptos teóricos y prácticos revisados en el presente semestre mediante un caso de uso de la vida real.
