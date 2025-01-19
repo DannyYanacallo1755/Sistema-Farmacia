@@ -1,4 +1,4 @@
-# Proyecto_Final_POO
+
 # Requerimientos
 
 En el presente proyecto se implementa los conceptos teóricos y prácticos revisados en el presente semestre mediante un caso de uso de la vida real.
